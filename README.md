@@ -1,4 +1,4 @@
-# Flutter-Lecture-Lab
+# flutter-lecture-lab
 
 Flutter 강의를 수강하며 따라 만든 실습 예제들을 모아둔 저장소입니다.
 
