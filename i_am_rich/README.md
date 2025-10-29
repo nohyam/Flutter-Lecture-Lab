@@ -15,6 +15,4 @@
 
 앱 실제 실행 화면:
 
-![screenshot](screenshots/i_am_rich.png)
-
-
+<img src="screenshots/i_am_rich.png" width="50%" height="50%"> 
